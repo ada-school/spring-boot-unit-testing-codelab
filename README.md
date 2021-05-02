@@ -85,4 +85,5 @@
   * Implementa una función por cada prueba que vas a realizar.
   * Crea tantos unit test como sean necesarios dependiendo de los posibles comportamientos de las funciones(Ej si findById retorna null o si retorna un usuario)
   * Verifica que las interacciones con el mock del *UserRepository* son correctas.
+  * Utiliza la funcion `when` para configurar el comportamiento que esperas del mock.
 
