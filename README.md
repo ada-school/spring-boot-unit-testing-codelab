@@ -28,4 +28,4 @@
 ### Parte 2: Creando Mocks y Probando Interacciones
 
 1. Agrega la liberia de [Mockito](https://site.mockito.org/) a tu proyecto.
-2. Lee y comprende cómo usar y para que sirve Mockito en la [documentación oficial de Mockito].
+2. Lee y comprende cómo usar y para que sirve Mockito en la [documentación oficial de Mockito](https://site.mockito.org/).
