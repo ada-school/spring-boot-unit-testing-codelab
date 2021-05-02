@@ -6,7 +6,7 @@
 **Objetivos de Aprendizaje**
 
 - [ ] Implementar pruebas unitarias para los servicios en Spring Boot.
-- [ ] Utilizar mocks para la creación de pruebas unitarias.
+- [ ] Utilizar mocks para implementar pruebas unitarias.
 - [ ] Ejectura y verificar pruebas unitarias en Spring Boot.
 
 
