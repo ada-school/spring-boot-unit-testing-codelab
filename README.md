@@ -31,7 +31,7 @@
   ```gradle
       	testImplementation("org.mockito:mockito-core")
   ```
-2. Lee y comprende cómo usar y para que sirve Mockito en la [documentación oficial de Mockito](https://site.mockito.org/).
+2. Lee y comprende para que sirve Mockito y cómo usarlo en la [documentación oficial de Mockito](https://site.mockito.org/).
 3. Crea un nuevo packete en el directiorio base de *test* llamado *service*
 4. Crea una nueva clase llamada *UserServiceMongoDbTest*
 5. Anota la clase *UserServiceMongoDBTest* con *@SpringBootTest* y *@TestInstance(TestInstance.Lifecycle.PER_CLASS)*
