@@ -27,5 +27,11 @@
 
 ### Parte 2: Creando Mocks y Probando Interacciones
 
-1. Agrega la liberia de [Mockito](https://site.mockito.org/) a tu proyecto.
+1. Agrega la dependencia de Mockito al entorno de pruebas de tu proyecto tu proyecto:
+  ```gradle
+      	testImplementation("org.mockito:mockito-core")
+  ```
 2. Lee y comprende cómo usar y para que sirve Mockito en la [documentación oficial de Mockito](https://site.mockito.org/).
+3. Crea un nuevo packete en el directiorio base de *test* llamado *service*
+4. Crea una nueva clase llamada *UserServiceMongoDBTest*
+5. 
